@@ -1,4 +1,4 @@
-# DonutBot 
+# DonutBot (twitter)
 - Simple bot to use for tweeting
 - Install the needed libraries 
 ``` pip install tweepy ```
